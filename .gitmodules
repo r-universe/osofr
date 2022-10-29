@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simcausal"]
+	path = simcausal
+	url = https://github.com/osofr/simcausal
+	shallow = true
+	registered = true
